@@ -1,0 +1,10 @@
+ El volumen de la unidad D es Data
+ El n£mero de serie del volumen es: FCBD-FB78
+
+ Directorio de D:\Manuel\Repo_test\rep_test
+
+10/04/2018  10:31    <DIR>          .
+10/04/2018  10:31    <DIR>          ..
+10/04/2018  10:31                 0 prueba2323.txt
+               1 archivos              0 bytes
+               2 dirs  66.226.069.504 bytes libres
